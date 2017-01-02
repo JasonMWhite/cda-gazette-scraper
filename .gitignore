@@ -93,3 +93,4 @@ bin/
 .idea
 share/
 pip-selfcheck.json
+include/
