@@ -91,3 +91,5 @@ bin/
 .ropeproject
 
 .idea
+share/
+pip-selfcheck.json
